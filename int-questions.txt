@@ -1,0 +1,36 @@
+Rbac in 
+ - kubernets 
+
+Manifest file - kubernets
+
+helm chart
+
+HPA -  horizantal pod autoscaler 
+
+liveness ready ness
+helm chart -
+
+
+aws,s3, route53
+
+trigerr, deploy
+
+
+------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
