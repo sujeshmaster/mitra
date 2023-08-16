@@ -19,10 +19,174 @@ trigerr, deploy
 ------------
 
 
+ec2 -types of ec2 instance
+
+
+
+pricing model
+dedicated
+onsport
+
+
+attach a volume to a instance
+mount and unmount
+
+-> volume - attach to a instace
+
+
+s3 storage class - 7 class-
+
+standard -
+glacier - infrequent/rare acces
+
+deeparchive - 
+
+difference 
+
+one zone
+
+-----------
+
+s3 lifecycle
+
+
+cost optimization, free space
+
+- delete after 30 days 
+
+-----------
+
+delete marker - s3 
+
+version , s3
+
+--------------------
+
+s3 scope
+
+------
+
+
+ACL - Private and public acces
+ acl in s3
+
+Restricted acces in acl 
+
+using i am role  policy 
+-------
+
+AD - Active domain or active directory
+
+-----------
+
+types of ec2
+
+
+-----
+
+security vs nacl 
+
+satefull , sateless
+instance, subnet
+
+------------
+
+VPC - isolated env 
+subnet
+rout
+nat , iwag
+
+
+------------
+
+ec2 - 20 instance -can be created
+
+ec2 - 25 instance
+
+------------
+
+CIDR --- range 30
+
+29 - ip range
+
+
+---
+
+rote table and subnet association --- 
+
+subet associatio -- in rote table
+
+------------------
+
+
+VPC perring - how to connection
+--------------
+
+
+
+transit gate way - use
+----------------
+
+route 53 - cname
+
+----------
+
+recordset , tyes of record set
+
+----------
+
+routing policy - 6types - why what 
+
+Geolocation - user ,restriction ( )
+
+-------------
+
+Rds - 
+CRR in Rds 
+cross region 
+
+backup and recovery ( dissater)
+mumbai and london
+
+command to connect - mysyl to instance ( endpoint)
+
+-h -p 3306 -u -P
+
+host, portnumber, username , password
+
+-----------
+
+rds enginee -  7 types
+
+sql version in rds - 5+ version
+
+--------
+
+Mylti aZ deployment
+
+-----------
+
+
+RDS and dynamo db 
+
+fast and flexible - dynamo db
+
+
+--------
+
+jenkins - scripted and declarative
+
+------------------------------
 
 
 
 
+
+record set -> types 
+
+
+
+ 
 
 
 
